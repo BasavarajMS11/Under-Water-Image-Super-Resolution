@@ -5,6 +5,7 @@ Python
 Given an underwater low-resolution degraded image, we initially enhance the image to remove degradation effects and then improve the quality of image by super resolution.
 
 The proposed methodology of enhancing and super resolving of UW images consists of three main modules.
+![alt text](https://github.com/BasavarajMS11/Under-Water-Image-Super-Resolution/blob/master/Images/methodology.jpg?raw=true)
 1. Image Enhancement(IE)
 2. Image Super Resolution(ISR)
 3. Performance Evaluation(PE)
