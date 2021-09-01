@@ -1,0 +1,17 @@
+
+# dataset info
+dataset_name: "UFO-120" 
+dataset_path: "E:\\Project_MLDL_IPCV\\UW IE and Super Resolution\\Implementation\\FUnIEGAN\\FUnIE-GAN-master\\FUnIE-GAN-master\\PyTorch\\data\\UFO-120\\train_val_u"
+
+# image info
+chans: 3
+im_width: 320 # 256  #320
+im_height: 240 #256 #240
+
+# other params
+val_interval: 1000 # steps
+ckpt_interval: 20  # epochs
+
+
+
+ 

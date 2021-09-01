@@ -1,0 +1,17 @@
+
+# dataset info
+dataset_name: "EUVP" 
+dataset_path: "E:\\Project_MLDL_IPCV\\UW IE and Super Resolution\\Dataset\\EUVP\\Unpaired-20201104T092148Z-001\\Unpaired"
+
+# image info
+chans: 3
+im_width: 256
+im_height: 256
+
+# other params
+val_interval: 100 # steps
+ckpt_interval: 4  # epochs
+
+
+
+ 
