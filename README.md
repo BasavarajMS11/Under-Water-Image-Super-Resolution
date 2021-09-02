@@ -1,5 +1,5 @@
 # Under-Water-Image-Super-Resolution
-Python
+
 
 ## Problem Statement: 
 Given an underwater low-resolution degraded image, we initially enhance the image to remove degradation effects and then improve the quality of image by super resolution.
