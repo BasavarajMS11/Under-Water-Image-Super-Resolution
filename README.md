@@ -73,15 +73,20 @@ Results of our method on UFO-120 test data Row1 is input degraded UW images, Row
 ![alt text](https://github.com/BasavarajMS11/Under-Water-Image-Super-Resolution/blob/master/Images/Img_Seq.JPG?raw=true)
 <br/>
 
-Comparison of our method with existing SOTA works in enhancement
+#### Comparison of our method with existing SOTA works in enhancement
 ![alt text](https://github.com/BasavarajMS11/Under-Water-Image-Super-Resolution/blob/master/Images/SOTA_Enhancement.png?raw=true)
+Comparison of our method with SOTA in enhancement of UW image on UFO-120 test dataset.
 <br/>
 
+Performance evaluation and comparison with existing SOTA works for UW image enhancement using quantitative measures PSNR and SSIM on UFO-120 and EUVP datasets.
 ![alt text](https://github.com/BasavarajMS11/Under-Water-Image-Super-Resolution/blob/master/Images/comp_metric_enh.JPG?raw=true)
 <br/>
 
+#### Comparison of our method with existing SOTA works in super resolution
 ![alt text](https://github.com/BasavarajMS11/Under-Water-Image-Super-Resolution/blob/master/Images/SOTA_SR.jpg?raw=true)
+Comparison of our method with SOTA in Super Resolution of UW image on UFO-120 test dataset.
 <br/>
 
+Performance evaluation and comparison with existing SOTA works for super resolution using quantitative measures PSNR and SSIM on UFO-120 and USR-248 datasets.
 ![alt text](https://github.com/BasavarajMS11/Under-Water-Image-Super-Resolution/blob/master/Images/comp_metric_sr.JPG?raw=true)
 <br/>
