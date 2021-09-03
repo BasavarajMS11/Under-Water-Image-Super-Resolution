@@ -69,9 +69,11 @@ This is GAN based image SR for super resolving enhanced UW image.
 
 ## Results
 
+Results of our method on UFO-120 test data Row1 is input degraded UW images, Row2 is intermediate enhanced UW image, Row3 is enhanced UW image, Row3 is super resolved UW image, Row4 is ground truth.
 ![alt text](https://github.com/BasavarajMS11/Under-Water-Image-Super-Resolution/blob/master/Images/Img_Seq.JPG?raw=true)
 <br/>
 
+Comparison of our method with existing SOTA works in enhancement
 ![alt text](https://github.com/BasavarajMS11/Under-Water-Image-Super-Resolution/blob/master/Images/SOTA_Enhancement.png?raw=true)
 <br/>
 
