@@ -68,3 +68,23 @@ This is GAN based image SR for super resolving enhanced UW image.
 
 
 ## Results
+
+<br/>
+![alt text](https://github.com/BasavarajMS11/Under-Water-Image-Super-Resolution/blob/master/Images/Img_Seq.JPG?raw=true)
+<br/>
+
+<br/>
+![alt text](https://github.com/BasavarajMS11/Under-Water-Image-Super-Resolution/blob/master/Images/SOTA_Enhancement.png?raw=true)
+<br/>
+
+<br/>
+![alt text](https://github.com/BasavarajMS11/Under-Water-Image-Super-Resolution/blob/master/Images/comp_metric_enh.JPG?raw=true)
+<br/>
+
+<br/>
+![alt text](https://github.com/BasavarajMS11/Under-Water-Image-Super-Resolution/blob/master/Images/SOTA_SR.jpg?raw=true)
+<br/>
+
+<br/>
+![alt text](https://github.com/BasavarajMS11/Under-Water-Image-Super-Resolution/blob/master/Images/comp_metric_sr.JPG?raw=true)
+<br/>
