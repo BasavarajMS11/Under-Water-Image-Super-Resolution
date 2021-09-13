@@ -2,8 +2,9 @@
 
 
 ## Problem Statement: 
-Given an underwater low-resolution degraded image, we initially enhance the image to remove degradation effects and then improve the quality of image by super resolution.
+To build a deep learning model for a given underwater low-resolution degraded image, that enhance the image to remove degradation effects and later improve the quality of image by super resolution.
 
+## Methodology
 The proposed methodology of enhancing and super resolving of UW images consists of three main modules.
 <br/>
 ![alt text](https://github.com/BasavarajMS11/Under-Water-Image-Super-Resolution/blob/master/Images/methodology.jpg?raw=true)
