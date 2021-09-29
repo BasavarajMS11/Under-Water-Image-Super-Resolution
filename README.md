@@ -1,6 +1,5 @@
 # Under-Water-Image-Super-Resolution
 
-
 ## Problem Statement: 
 To build a deep learning model for a given underwater low-resolution degraded image, that enhance the image to remove degradation effects and later improve the quality of image by super resolution.
 
