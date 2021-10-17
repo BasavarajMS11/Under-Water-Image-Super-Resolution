@@ -35,7 +35,7 @@ stored in specific folder for further enhancing and super resolving.
 
 ### 1.3 GAN Based IE
 This is GAN based image enhancement technique to further enhance intermediate enhanced image obtained by fusion.
-#### Training:
+#### Training: 
 - FUnIEGAN architecture used to train the model.
 - The model can be trained on existing paired data sets such as EUVP and UFO against the GT.
 - We trained the model on UFO 120 dataset with the dimension of 256 x 256.
